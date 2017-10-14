@@ -1,1 +1,3 @@
-Bison is a toy programming language and its Interpreter is written in Go.
+Bison
+
+An interpreter for toy programming language bison.
